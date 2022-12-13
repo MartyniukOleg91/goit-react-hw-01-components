@@ -23,7 +23,7 @@
 
 .online {
     composes: status;
-    background-color: rgb(11, 253, 43);
+    background-color:green;
 }
 
 .offline {
